@@ -1,0 +1,5 @@
+{
+  "name": "EduGen AI - Course Planner",
+  "description": "A comprehensive educational content generator for professors and teachers. Generates lesson plans, lecture notes, question banks, and assignments using Gemini AI.",
+  "requestFramePermissions": []
+}
